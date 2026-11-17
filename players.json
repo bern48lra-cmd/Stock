@@ -2,6 +2,15 @@
   "division": "Men's Division 6",
   "teams": [
     {
+      "name": "Hutton and Shenfied 5",
+      "players": [
+        "David Snowdon",
+        "J Valera",
+        "Darren Moxon",
+        "Gerry Downey"
+      ]
+    },
+    {
       "name": "Brentwood Lawn 3",
       "players": [
         "Bernine Englefield",
