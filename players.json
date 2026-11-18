@@ -1,51 +1,15 @@
 {
-  "division": "Men's Division 6",
   "teams": [
     {
-      "name": "Hutton and Shenfied 4",
+      "name": "Team A",
       "players": [
-        "David Snowdon",
-        "J Valera",
-        "Darren Moxon",
-        "Gerry Downey"
+        "John Smith",
+        "Peter Jones",
+        "David Brown",
+        "Mike Wilson"
       ]
     },
 {
-      "name": "Ongar 2",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Grove 4",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Writtle 2",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Billericay 3",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Blackmore 2",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-    {
       "name": "Brentwood Lawn 3",
       "players": [
         "Bernine Englefield",
@@ -55,53 +19,61 @@
         "Sachib Sadiq",
         "Richard Austin"
       ]
-    }
-  ]
-  "division": "Men's Division 5",
-  "teams": [
+    },
+
+{
+      "name": "Hutton and Shenfied 5",
+      "players": [
+        "David Snowdon",
+        "J Valera",
+        "Darren Moxon",
+        "Gerry Downey"
+      ]
+    },
+{
+      "name": "Ongar",
+      "players": [
+        "Player A",
+        "Player B"
+      ]
+    },
+{
+      "name": "Grove",
+      "players": [
+        "Player A",
+        "Player B"
+      ]
+    },
+{
+      "name": "Writtle",
+      "players": [
+        "Player A",
+        "Player B"
+      ]
+    },
+{
+      "name": "Billericay",
+      "players": [
+        "Player A",
+        "Player B"
+      ]
+    },
+{
+      "name": "Blackmore",
+      "players": [
+        "Player A",
+        "Player B"
+      ]
+    },
+
+
     {
-      "name": "Blackmore 1",
+      "name": "Team B",
       "players": [
-      ]
-    },
-{
-      "name": "Brentwood Lawn 2",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Chelmsfordians 3",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Great Baddow 4",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Grove 3",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-{
-      "name": "Hampton SL 2",
-      "players": [
-        "Player A",
-        "Player B"
-      ]
-    },
-    {
-      "name": "Stock 2",
-      "players": [
+        "Steve Taylor",
+        "Alan White",
+        "Chris Green",
+        "Paul Harris"
       ]
     }
   ]
